@@ -1,3 +1,4 @@
+#include "Colors.h"
 /*
   RGB Color Sensor Demonstration
   rgb-color-sensor-demo.ino
